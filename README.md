@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Vsevolod!
+I'm new in programming.
 
 <!--
 **SevaDactyl/SevaDactyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
