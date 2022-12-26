@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💻 Codewars
-https://www.codewars.com/users/SevaDactyl/badges/large
+[Profile badge](https://www.codewars.com/users/SevaDactyl/badges/large)
 
 ## 📊 My statistics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SevaDactyl&theme=dark&background=000000)](https://git.io/streak-stats)
